@@ -1,0 +1,3 @@
+date,well_id,basin,field,oil_rate_bbl_day,rolling_baseline_bbl_day,deviation_pct,anomaly_type,zscore_flag,iqr_flag
+2023-09-01,W-03,Assam,Geleki,27.61,204.57,-86.5,Critical Drop,True,False
+2023-06-01,W-07,Gujarat,Gandhar,74.59,466.9,-84.0,Critical Drop,True,False
